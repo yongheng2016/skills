@@ -2,4 +2,4 @@
 
 ----
 
-[1](https://github.com/yongheng2016/skills/issues/1)
+[Git Bash用命令行，让软件（sublime、chrome等浏览器）打开文件](https://github.com/yongheng2016/skills/issues/1)
