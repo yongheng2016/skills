@@ -7,3 +7,4 @@
 + [快速修改hosts(chrome应用)](https://github.com/yongheng2016/skills/issues/3)
 + [一组数无限循环 : eg -->（0、1、2、3、4、0、1、2、3、4、0、1、2...）](https://github.com/yongheng2016/skills/issues/4)
 + [VSCode默认终端开启bash](https://github.com/yongheng2016/skills/issues/5)
++ [linux目录配置](http://www.cnblogs.com/ggjucheng/archive/2012/08/20/2647788.html)
